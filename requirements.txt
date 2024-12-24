@@ -1,0 +1,6 @@
+google-generativeai
+requests
+json
+moviepy
+gtts
+crawl4ai
